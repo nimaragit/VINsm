@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">VIN Check Pro</string>
+    <string name="search_vin_hint">شماره 17 رقمی شاسی (VIN) را وارد کنید...</string>
+    <string name="search_button">استعلام جامع VIN</string>
+    <string name="clear_button">پاک کردن</string>
+    <string name="paste_button">چسباندن</string>
+    <string name="sample_vins_title">نمونه VINهای معتبر برای تست:</string>
+    <string name="search_history">سوابق جستجو</string>
+    <string name="no_history">هیچ سابقه جستجویی ذخیره نشده است.</string>
+    <string name="clear_history">پاک کردن تاریخچه</string>
+    <string name="export_pdf">دریافت گزارش PDF</string>
+    <string name="print_report">چاپ گزارش</string>
+    <string name="share_report">اشتراک‌گذاری گزارش</string>
+    <string name="vehicle_specs">مشخصات فنی خودرو (NHTSA)</string>
+    <string name="auction_salvage">سوابق مزایده و تصادفات (Copart / IAAI / BidFax)</string>
+    <string name="title_records">وضعیت سند و آسیب‌ها (NMVTIS)</string>
+    <string name="safety_recalls">فراخوان‌های ایمنی فعال (Recalls)</string>
+    <string name="damage_photos">تصاویر تصادف و وضعیت سالویج</string>
+    <string name="cross_check_sources">مراجع استعلام و لینک‌های مستقیم</string>
+    <string name="clean_title">سند سالم (Clean Title)</string>
+    <string name="salvage_title">سالویج / تصادفی (Salvage)</string>
+    <string name="rebuilt_title">بازسازی شده (Rebuilt)</string>
+    <string name="flood_damage">آسیب‌دیده بر اثر سیل (Flood)</string>
+    <string name="loading_data">در حال دریافت اطلاعات از مراجع بین‌المللی...</string>
+</resources>

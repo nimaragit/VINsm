@@ -1,0 +1,6 @@
+{
+  "name": "VIN Check Pro",
+  "description": "استعلام جامع سوابق خودرو با شماره VIN، مشخصات فنی رسمی، استعلام مزایده و تصاویر تصادفات Copart/IAAI/BidFax، سوابق Title و گزارش چاپی PDF",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
